@@ -5,7 +5,7 @@ import java.util.Random;
 
 class SkillBuilder5Test {
     private static Random random = new Random();
-    private static String alphabet = "abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    private static String alphabet = "abcdefghijklmnopqrsuvwxz ABCDEFGHIJKLMNOPQRSUVWXZ";
 
 
     private String getRandomString(){
@@ -22,6 +22,7 @@ class SkillBuilder5Test {
         assertEquals(expected,actual,"Expecting: "+expected+"\nActual: "+actual);
     }
 
+    @Test
     void findTYPattern_2() {
         String randStr = getRandomString();
         String expected = "this"+randStr+"testy";
@@ -29,6 +30,7 @@ class SkillBuilder5Test {
         assertEquals(expected,actual,"Expecting: "+expected+"\nActual: "+actual);
     }
 
+    @Test
     void findTYPattern_3() {
         String randStr = getRandomString();
         String expected = "THIS"+randStr+"TEST THOUROUGHLY";
