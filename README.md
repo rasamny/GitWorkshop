@@ -32,12 +32,10 @@ contains a sub-string that starts with a **t** in the word **rather** and ends i
 Use software to draw the FSM.  PowerPoint or LibreOffice may be the most convenient due to availability.  Make sure to 
 properly label the diagram including states, transitions, and actions.  See instructions for submission of FSMs.
 
-Here is a video that shows how to draw an FSM in PowerPoint and Keynote.
-<video width="640 height="480" controls>
-<source src="https://delawarestateuniversity-my.sharepoint.com/:v:/g/personal/mrasamny_desu_edu/EbMTuLeUZs1Di7VlgmAkz_sBg_8JuFAQBPiDEZi5Zvl_bQ?download=1" type="video/mp4">
-<a href="https://delawarestateuniversity-my.sharepoint.com/:v:/g/personal/mrasamny_desu_edu/EbMTuLeUZs1Di7VlgmAkz_sBg_8JuFAQBPiDEZi5Zvl_bQ?download=1">Drawing FSM</a>
-</video>
+Click the link below to watch the video that shows how to draw an FSM in PowerPoint and Keynote.
 
+<a href="https://delawarestateuniversity-my.sharepoint.com/:v:/g/personal/mrasamny_desu_edu/EbMTuLeUZs1Di7VlgmAkz_sBg_8JuFAQBPiDEZi5Zvl_bQ?download=1">Drawing FSM</a>
+ 
 ## Implement Method
 Implement the finite-state machine designed above in the SkillBuilder5 class method called
 <p style="font-family: 'courier new', courier;background-color:#f5f5f5;padding:10px 10px 10px 10px;border:solid 1px #dddddd;color:blue;font-weight:bold;">
