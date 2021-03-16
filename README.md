@@ -1,4 +1,4 @@
-# Skill Builder 3 - Designing and Implementing Finite State Machines
+# Skill Builder 4 - Designing and Implementing Finite State Machines
 
 Learning Outcomes:
 - Designing FSMs
