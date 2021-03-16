@@ -1,8 +1,8 @@
 # Skill Builder 4 - Designing and Implementing Finite State Machines
 
-Learning Outcomes:
-- Designing FSMs
-- Applying algorithm to convert FSM to code
+At the end of this Skill Builder, a studnet will be able to:
+- Design an FSMs
+- Apply process to convert an FSM to code
 - Implement an FSM in a function or class
 
 ## 1. Designing and Implementing a FSM
